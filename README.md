@@ -65,7 +65,3 @@ Visit https://whatismyipaddress.com - should show your VPN server's IP
 | Status | ✅ Running & Verified |
 
 ---
-
-**Start with:** 👉 [Quick Start Guide](docs/quick-start.md)
-
-**Created**: August 14, 2026 | **Status**: ✅ Complete
